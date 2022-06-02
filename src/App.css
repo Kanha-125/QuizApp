@@ -1,0 +1,47 @@
+.container {
+  width: auto;
+  height: 100vh;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.quizContainer {
+  width: 50vw;
+  height: auto;
+  min-height: 40%;
+  margin: auto;
+  border: 2px solid rgb(225, 47, 183);
+  border-radius: 5px;
+  background-color: rgb(184, 11, 170);
+  color: black;
+  font-size: 25px;
+  font-family: serif;
+}
+.heading {
+  margin: 11px 16px 0px 16px;
+}
+h3 {
+  margin: 5px 30px;
+  font-size: 21px;
+}
+
+button {
+  display: block;
+  margin: 8px;
+  font-family: auto;
+  margin: 8px;
+  border: 1px solid cornflowerblue;
+  border-radius: 13px;
+  height: 23px;
+  padding: 4px;
+  box-sizing: content-box;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 17px;
+  background: cadetblue;
+}
+
+h5{
+  margin: 3em 10em;
+}
